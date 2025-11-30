@@ -68,7 +68,7 @@ Open **`https://localhost:3000`** in your browser.
 - **Ledger**  
 - **Exodus**  
 - **Phantom**  
-- **Any ERC-20 compatible wallet**  
+- **Any wallet**  
 
 ---
 
